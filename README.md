@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheFirstFen, I have about 10 years of experience of programming.
+- 👋 Hi, I’m @TheFirstFen, I have about 10 years of experience in programming.
 - 👀 I’m interested in problem solving and programming as a whole.
 - 🌱 I’m currently working on improving my fundamentals.
 - 💞️ I’m looking to collaborate on ...
